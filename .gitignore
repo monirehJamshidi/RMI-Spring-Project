@@ -1,0 +1,11 @@
+# .gitignore
+target/
+server/target/
+client/target/
+.idea/
+*.iml
+out/
+.DS_Store
+Thumbs.db
+*.log
+*.class
